@@ -1,4 +1,5 @@
-### Hi there 👋
+###✨ WELCOME, TO THE WORLD OF TOMMOROW ✨
+~~why do you always have to say it that way?~~
 
 <!--
 **tailsmster/tailsmster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
