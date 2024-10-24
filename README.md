@@ -1,16 +1,24 @@
-### ✨ *WELCOME, TO THE WORLD OF TOMMOROW* ✨
+<h3 align="center" style="italic"> ✨ <em>WELCOME, TO THE WORLD OF TOMMOROW</em> ✨ </h3>
 
-Hello, my name is Nico Aroca. I'm a software engineer with 3+ years experience of coding. I'm passionate about creating fun user-friendly apps and solving complex problems!
+<p align="center">
+    Hello, my name is Nico Aroca. I'm a software engineer with 3+ years experience of coding. I'm passionate about creating fun user-friendly apps and solving complex problems!
+</p>
+
+
+<div align="center">
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:nicoaroca.isworking@gmail.com)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/nicoaroca12/)
 
+</div>
 
-<!-- <h3>MY TECH STACK:</h3> -->
+___
+
+<h3 align="center"><em>~MY TECH STACK~</em></h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,css,html,scss,react,nodejs,express,postgresql,c,cpp,python,git,linux,arch,vscodium,vim" />
+    <img src="https://skillicons.dev/icons?i=javascript,css,html,scss,react,nodejs,express,postgresql,c,cpp,python,git,linux,vscodium,vim" />
   </a>
 </p>
 
