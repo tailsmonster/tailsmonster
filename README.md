@@ -17,9 +17,7 @@ ___
 <h3 align="center"><em>~MY TECH STACK~</em></h2>
 
 <p align="center">
-  <a href="">
     <img src="https://skillicons.dev/icons?i=javascript,css,html,scss,react,nodejs,express,postgresql,c,cpp,python,git,linux,vscodium,vim" />
-  </a>
 </p>
 
 
