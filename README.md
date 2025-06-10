@@ -7,8 +7,9 @@
 
 <div align="center">
 
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:nicoaroca.isworking@gmail.com)
+[<img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white">](https://nicoaroca.onrender.com)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/nicoaroca12/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:nicoaroca.isworking@gmail.com)
 
 </div>
 
@@ -17,7 +18,7 @@ ___
 <h3 align="center"><em>~MY TECH STACK~</em></h2>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,css,html,scss,react,nodejs,express,postgresql,c,cpp,python,git,linux,vscodium,vim" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,css,html,scss,tailwind,react,nodejs,express,postgresql,c,cpp,python,git,linux" />
 </p>
 
 
