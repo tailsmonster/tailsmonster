@@ -22,29 +22,29 @@ ___
 <h3 align="center"><em>~MY TECH STACK~</em></h2>
 
 <p align="center">
-  <img height="35" src="https://skillicons.dev/icons?i=javascript" />
-  <img height="35" src="https://skillicons.dev/icons?i=typescript" />
-  <img height="35" src="https://skillicons.dev/icons?i=css" />
-  <img height="35" src="https://skillicons.dev/icons?i=html" />
-  <img height="35" src="https://skillicons.dev/icons?i=scss" />
-  <img height="35" src="https://skillicons.dev/icons?i=tailwind" />
-  <img height="35" src="https://skillicons.dev/icons?i=react" />
-  <img height="35" src="https://skillicons.dev/icons?i=nextjs" />
-  <img height="35" src="https://skillicons.dev/icons?i=nodejs" />
-  <img height="35" src="https://skillicons.dev/icons?i=express" />
-  <img height="35" src="https://skillicons.dev/icons?i=postgresql" />
-  <img height="35" src="https://skillicons.dev/icons?i=mongodb" />
-  <img height="35" src="https://skillicons.dev/icons?i=net" />
-  <img height="35" src="https://skillicons.dev/icons?i=cs" />
+  <img height="40" src="https://skillicons.dev/icons?i=javascript" />
+  <img height="40" src="https://skillicons.dev/icons?i=typescript" />
+  <img height="40" src="https://skillicons.dev/icons?i=css" />
+  <img height="40" src="https://skillicons.dev/icons?i=html" />
+  <img height="40" src="https://skillicons.dev/icons?i=scss" />
+  <img height="40" src="https://skillicons.dev/icons?i=tailwind" />
+  <img height="40" src="https://skillicons.dev/icons?i=react" />
+  <img height="40" src="https://skillicons.dev/icons?i=nextjs" />
+  <img height="40" src="https://skillicons.dev/icons?i=nodejs" />
+  <img height="40" src="https://skillicons.dev/icons?i=express" />
+  <img height="40" src="https://skillicons.dev/icons?i=postgresql" />
+  <img height="40" src="https://skillicons.dev/icons?i=mongodb" />
+  <img height="40" src="https://skillicons.dev/icons?i=net" />
+  <img height="40" src="https://skillicons.dev/icons?i=cs" />
   <br/>
-  <img height="35" src="https://skillicons.dev/icons?i=cpp" />
-  <img height="35" src="https://skillicons.dev/icons?i=c" />
-  <img height="35" src="https://skillicons.dev/icons?i=python" />
-  <img height="35" src="https://skillicons.dev/icons?i=bash" />
-  <img height="35" src="https://skillicons.dev/icons?i=vscodium" />
-  <img height="35" src="https://skillicons.dev/icons?i=rider" />
-  <img height="35" src="https://skillicons.dev/icons?i=figma" />
-  <img height="35" src="https://skillicons.dev/icons?i=linux" />
+  <img height="40" src="https://skillicons.dev/icons?i=cpp" />
+  <img height="40" src="https://skillicons.dev/icons?i=c" />
+  <img height="40" src="https://skillicons.dev/icons?i=python" />
+  <img height="40" src="https://skillicons.dev/icons?i=bash" />
+  <img height="40" src="https://skillicons.dev/icons?i=vscodium" />
+  <img height="40" src="https://skillicons.dev/icons?i=rider" />
+  <img height="40" src="https://skillicons.dev/icons?i=figma" />
+  <img height="40" src="https://skillicons.dev/icons?i=linux" />
 
  
 <!--     <img src="https://skillicons.dev/icons?i=javascript,typescript,css,html,scss,tailwind,react,nextjs,nodejs,express,postgresql,mongodb,net,cs" /> 
