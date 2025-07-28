@@ -1,7 +1,11 @@
 <h3 align="center" style="italic"> ✨ <em>WELCOME, TO THE WORLD OF TOMMOROW</em> ✨ </h3>
+<!-- Why do you always say it like that? -->
 
 <p align="center">
-    Hello, my name is Nico Aroca. I'm a software engineer with 3+ years experience of coding. I'm passionate about creating fun user-friendly apps and solving complex problems!
+      Hey, I’m Nico Aroca! I'm a full-stack software engineer who loves building intuitive, reliable web apps. I enjoy solving tricky problems, writing clean code, and turning ideas into reality, on the web and beyond
+      <br/>
+      Outside of web development, I love exploring game development, desktop tools, and scripting fun automation!
+
 </p>
 
 
@@ -18,8 +22,9 @@ ___
 <h3 align="center"><em>~MY TECH STACK~</em></h2>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,css,html,scss,tailwind,react,nextjs,nodejs,express,net,mongodb,postgresql,cs,cpp" /> 
-    <img src="https://skillicons.dev/icons?i=c,python,vscodium,rider,figma,linux" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,css,html,scss,tailwind,react,nextjs,nodejs,express,postgresql,mongodb,net,cs" /> 
+<!-- 	<br/> -->
+    <img src="https://skillicons.dev/icons?i=cpp,c,python,bash,vscodium,rider,figma,linux" />
 </p>
 
 
