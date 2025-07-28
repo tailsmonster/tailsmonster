@@ -19,7 +19,7 @@ ___
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=javascript,typescript,css,html,scss,tailwind,react,nextjs,nodejs,express,net,mongodb,postgresql,cs,cpp" /> 
-    <img src="https://skillicons.dev/icons?i=c,python" />
+    <img src="https://skillicons.dev/icons?i=c,python,linux" />
 </p>
 
 
