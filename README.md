@@ -34,6 +34,7 @@ ___
   <img height="45" src="https://skillicons.dev/icons?i=express" />
   <img height="45" src="https://skillicons.dev/icons?i=postgresql" />
   <img height="45" src="https://skillicons.dev/icons?i=mongodb" />
+  <img height="45" src="https://skillicons.dev/icons?i=jest" />
   <img height="45" src="https://skillicons.dev/icons?i=postman" />
   <img height="45" src="https://skillicons.dev/icons?i=net" />
   <img height="45" src="https://skillicons.dev/icons?i=cs" />
