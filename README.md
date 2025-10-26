@@ -45,6 +45,7 @@ ___
   <img height="45" src="https://skillicons.dev/icons?i=bash" />
   <img height="45" src="https://skillicons.dev/icons?i=vscodium" />
   <img height="45" src="https://skillicons.dev/icons?i=rider" />
+  <img height="45" src="https://skillicons.dev/icons?i=clion" />
   <img height="45" src="https://skillicons.dev/icons?i=figma" />
   <img height="45" src="https://skillicons.dev/icons?i=linux" />
 
