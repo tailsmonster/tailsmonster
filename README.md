@@ -24,8 +24,8 @@ ___
 <p align="center">
   <img height="45" src="https://skillicons.dev/icons?i=javascript" />
   <img height="45" src="https://skillicons.dev/icons?i=typescript" />
-  <img height="45" src="https://skillicons.dev/icons?i=css" />
   <img height="45" src="https://skillicons.dev/icons?i=html" />
+  <img height="45" src="https://skillicons.dev/icons?i=css" />
   <img height="45" src="https://skillicons.dev/icons?i=scss" />
   <img height="45" src="https://skillicons.dev/icons?i=tailwind" />
   <img height="45" src="https://skillicons.dev/icons?i=react" />
@@ -34,20 +34,19 @@ ___
   <img height="45" src="https://skillicons.dev/icons?i=express" />
   <img height="45" src="https://skillicons.dev/icons?i=postgresql" />
   <img height="45" src="https://skillicons.dev/icons?i=mongodb" />
-  <img height="45" src="https://skillicons.dev/icons?i=jest" />
-  <img height="45" src="https://skillicons.dev/icons?i=postman" />
   <img height="45" src="https://skillicons.dev/icons?i=net" />
   <img height="45" src="https://skillicons.dev/icons?i=cs" />
   <br/>
+  <img height="45" src="https://skillicons.dev/icons?i=go" />
   <img height="45" src="https://skillicons.dev/icons?i=cpp" />
   <img height="45" src="https://skillicons.dev/icons?i=c" />
   <img height="45" src="https://skillicons.dev/icons?i=python" />
   <img height="45" src="https://skillicons.dev/icons?i=bash" />
-  <img height="45" src="https://skillicons.dev/icons?i=vscodium" />
-  <img height="45" src="https://skillicons.dev/icons?i=rider" />
-  <img height="45" src="https://skillicons.dev/icons?i=clion" />
+  <img height="45" src="https://skillicons.dev/icons?i=jest" />
+  <img height="45" src="https://skillicons.dev/icons?i=postman" />
   <img height="45" src="https://skillicons.dev/icons?i=figma" />
   <img height="45" src="https://skillicons.dev/icons?i=linux" />
+  <img height="45" src="https://skillicons.dev/icons?i=apple" />
 
  
 <!--     <img src="https://skillicons.dev/icons?i=javascript,typescript,css,html,scss,tailwind,react,nextjs,nodejs,express,postgresql,mongodb,net,cs" /> 
