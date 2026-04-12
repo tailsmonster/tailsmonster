@@ -45,7 +45,7 @@ ___
   <img height="45" src="https://skillicons.dev/icons?i=jest" />
   <img height="45" src="https://skillicons.dev/icons?i=postman" />
   <img height="45" src="https://skillicons.dev/icons?i=figma" />
-  <img height="45" src="https://skillicons.dev/icons?i=linux" />
+  <img height="45" src="https://skillicons.dev/icons?i=arch" />
   <img height="45" src="https://skillicons.dev/icons?i=apple" />
 
  
