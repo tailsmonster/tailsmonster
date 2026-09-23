@@ -18,7 +18,7 @@
 <h1></h1>
 
 <p align="center">
-  <img src="./assets/tailsmster_cactus.png" width="35%" alt="A strange door to somewhere else">
+  <img src="./assets/tailsmster_cactus.png" width="30%" alt="A strange door to somewhere else">
 </p>
 
 <div align="center">
